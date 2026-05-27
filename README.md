@@ -1,11 +1,11 @@
 # Amir Abbas Yahyaeian (Amir Yah)
 
-**PhD Candidate in Mechanical Engineering | Advanced Manufacturing for Aerospace | Metal-Based Additive Manufacturing | AI for Manufacturing**
+<!-- **PhD Candidate in Mechanical Engineering | Advanced Manufacturing for Aerospace | Metal-Based Additive Manufacturing | AI for Manufacturing**
 
 I am a PhD candidate in Mechanical Engineering at Embry-Riddle Aeronautical University, working at the intersection of aerospace-focused advanced manufacturing, physics-based modeling, sensor-driven monitoring, and machine learning. My research centers on metal-based additive manufacturing, aiming to develop intelligent, closed-loop manufacturing systems through the integration of real-time sensing, predictive modeling, and adaptive control. This work seeks to enhance process stability, microstructural control, and geometric fidelity in Directed Energy Deposition (DED) and related manufacturing platforms.
 
 ---
-
+-->
 ## Research Interests
 
 * Metal Additive Manufacturing
