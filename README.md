@@ -101,7 +101,7 @@ Islamic Azad University, Tehran, Iran
 
 ## Contact
 
-* **Email:** [amiryah1124@gmail.com](mailto:amiryah1124@gmail.com)
+* **Email:** [amiryah@my.erau.edu](mailto:amiryah@my.erau.edu)
 * **LinkedIn:** [Amir Yah](https://www.linkedin.com/in/amirabbasyahyaeian/)
 * **Location:** Daytona Beach, Florida, USA
 
