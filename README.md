@@ -83,7 +83,7 @@ Developed LSTM and GRU models for hourly electricity and heat demand prediction 
 
 ---
 
-## Education
+<!-- ## Education
 
 **Ph.D. Mechanical Engineering**
 Embry-Riddle Aeronautical University, Daytona Beach, FL
@@ -96,7 +96,7 @@ Purdue University, Indianapolis, IN
 **B.Sc. Mechanical Engineering**
 Islamic Azad University, Tehran, Iran
 2014–2020
-
+-->
 ---
 
 ## Contact
