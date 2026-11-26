@@ -15,7 +15,7 @@ I study how processing conditions shape the geometry, microstructure, and proper
 - Uncertainty Quantification and Process Control
 
 
----
+
 
 ## Featured projects
 
@@ -33,15 +33,23 @@ I used a hybrid CNC–directed energy deposition (DED) system to study how spati
 
 I built an automated workflow that aligns reconstructed 3D meshes to reference CAD geometry and measures surface deviations. It produces deviation maps and tolerance summaries for geometric inspection.
 
-## Selected publications
-
-- [Machine learning for bead geometry prediction in laser powder DED](https://link.springer.com/article/10.1007/s00170-026-17911-2) · *The International Journal of Advanced Manufacturing Technology*, 2026
-- [Design, fabrication, and thermo-fluid analysis of a binder-jetted stainless steel battery cooling case](https://www.sciencedirect.com/science/article/pii/S2213846326000167) · *Manufacturing Letters*, 2026
-
-[Full publication list on Google Scholar](https://scholar.google.com/citations?user=8IsNkzEAAAAJ&hl=en)
 
 
----
+
+## Publications
+
+* **Amir Yah**, H. Patel, J. Robinett, S. Namilae, Y. Zhou. *Binder jetting additive manufactured stainless steel battery cooling case: design, fabrication, and thermo-fluid analysis.* Manufacturing Letters, 2026.
+
+* A. Shakibi, **Amir Yah**, Y. Zhou. *Predicting bead geometry in laser powder directed energy deposition: ensemble machine learning models for complex process parameters.* The International Journal of Advanced Manufacturing Technology, 2026.
+
+* **Amir A. Yahyaeian**, A. Shakibi, A. Mello, Y. Zhou. *Directed Energy Deposition Additive Manufacturing of Stainless Steel with Spatially Variable Process Parameters.* AIAA SciTech 2026.
+
+* A. Morteza, **Amir A. Yahyaeian**, M. Mirzaeibonehkhater, S. Sadeghi, A. Moheimeni, S. Taheri. *Deep Learning Hyperparameter Optimization: Application to Electricity and Heat Demand Prediction for Buildings.* Energy & Buildings, 2023.
+
+* ➡️ **Full publication list:** [Google Scholar](https://scholar.google.com/citations?user=8IsNkzEAAAAJ&hl=en)
+
+
+
 
 ## Leadership & Service
 
