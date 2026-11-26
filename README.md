@@ -23,7 +23,7 @@ I study how processing conditions shape the geometry, microstructure, and proper
 
 This project is a research prototype for laser powder bed fusion (LPBF) of biomedical NiTi shape-memory alloys. You can try the following demo to explore how laser power and scan speed affect predicted relative density and austenite finish temperature, or screen for candidate conditions against target properties using a Gaussian process model.
 
-[Try the research demo](https://amiryah1124.github.io/NiTi-Web-App/) · [View the repository](https://github.com/amiryah1124/NiTi-Web-App)
+[Try the research demo](https://amiryah1124.github.io/NiTi-Web-App/) 
 
 ### Laser DED experiments and closed-loop control
 
