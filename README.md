@@ -2,83 +2,52 @@
 
 <!-- **PhD Candidate in Mechanical Engineering | Advanced Manufacturing for Aerospace | Metal-Based Additive Manufacturing | AI for Manufacturing**-->
 
-I am a PhD candidate in Mechanical Engineering at Embry-Riddle Aeronautical University, working at the intersection of aerospace-focused advanced manufacturing, physics-based modeling, sensor-driven monitoring, and machine learning. My research centers on metal-based additive manufacturing, aiming to develop intelligent, closed-loop manufacturing systems through the integration of real-time sensing, predictive modeling, and adaptive control. This work seeks to enhance process stability, microstructural control, and geometric fidelity in Directed Energy Deposition (DED) and related manufacturing platforms.
+I study how processing conditions shape the geometry, microstructure, and properties of metal additively manufactured parts. I combine hands-on manufacturing experiments with machine learning and uncertainty quantification to predict part outcomes, and use in-process sensing to guide closed-loop control. My long-term goal is to develop autonomous manufacturing systems for aerospace and automotive applications.
 
 
 ## Research Interests
 
-* Metal Additive Manufacturing
-* Hybrid manufacturing and CNC-assisted additive manufacturing
-* Thermal and geometric stability in additive manufacturing
-* Sensor-based process monitoring 
-* Machine learning for process prediction and optimization
-* Closed-loop control for intelligent manufacturing systems
+- Materials Informatics
+- Metal Additive Manufacturing
+- Machine Learning for Manufacturing
+- Machining and Hybrid Additive-Subtractive Manufacturing
+- Predictive Modeling and Process Optimization
+- Uncertainty Quantification and Process Control
 
 
 ---
 
-## Technical Skills
+## Featured projects
 
-**Simulation & Modeling**
-ANSYS Fluent, ANSYS Mechanical, Abaqus, CFD, FEM
+### Process Window Finder
 
-**Programming & Data Science**
-Python, MATLAB, Machine Learning, Data Analysis
+This project is a research prototype for laser powder bed fusion (LPBF) of biomedical NiTi shape-memory alloys. You can try the following demo to explore how laser power and scan speed affect predicted relative density and austenite finish temperature, or screen for candidate conditions against target properties using a Gaussian process model.
 
-**Manufacturing & Characterization**
-Directed Energy Deposition, Binder Jetting, CNC machining, mechanical testing, DIC, SEM, EDX, EBSD
+[Try the research demo](https://amiryah1124.github.io/NiTi-Web-App/) · [View the repository](https://github.com/amiryah1124/NiTi-Web-App)
 
-**CAD & Geometry Processing**
-Fusion 360, SolidWorks, Open3D, Trimesh, CloudCompare, mesh processing, signed distance field analysis
+### Laser DED experiments and closed-loop control
 
----
+I used a hybrid CNC–directed energy deposition (DED) system to study how spatial changes in process settings affect the microstructure and mechanical response of stainless steel. In related work, I used pyrometer feedback to adjust laser power during deposition.
 
-## Featured Projects
+### Mesh-to-CAD deviation analysis
 
-### Mesh-to-CAD Deviation Analysis Pipeline
+I built an automated workflow that aligns reconstructed 3D meshes to reference CAD geometry and measures surface deviations. It produces deviation maps and tolerance summaries for geometric inspection.
 
-Developed an end-to-end pipeline for manufacturing validation by integrating ICP-based alignment and signed distance field methods to quantify geometric deviation between meshes, point clouds, and CAD references. The workflow generates deviation heatmaps, statistical reports, and tolerance verification metrics.
+## Selected publications
 
-### Hybrid Manufacturing of Cr₃C₂–NiCr Reinforced Steel Composites
+- [Machine learning for bead geometry prediction in laser powder DED](https://link.springer.com/article/10.1007/s00170-026-17911-2) · *The International Journal of Advanced Manufacturing Technology*, 2026
+- [Design, fabrication, and thermo-fluid analysis of a binder-jetted stainless steel battery cooling case](https://www.sciencedirect.com/science/article/pii/S2213846326000167) · *Manufacturing Letters*, 2026
 
-Designed and executed a hybrid DED-CNC workflow integrating laser-based deposition and CNC machining. Developed dwell-time control strategies to regulate thermal input, stabilize deposition behavior, and assess dimensional accuracy and surface integrity of metal matrix composite builds.
+[Full publication list on Google Scholar](https://scholar.google.com/citations?user=8IsNkzEAAAAJ&hl=en)
 
-### Spatially Variable Process Parameters in DED
-
-Designed and executed DED experiments using spatially variable process parameters as a next-step extension of functionally graded materials. Characterized microstructure evolution using SEM, EBSD, and PDAS analysis to connect thermal gradients with grain morphology, texture, and mechanical response.
-
-### Geometric Accuracy and Thermal Control in DED
-
-Developed thermal models of melt pool behavior using moving heat source approximations and implemented in-situ pyrometry with control algorithms to regulate melt pool temperature. Applied machine learning and sensitivity analysis to quantify the effect of process parameters on thermal response and build geometry.
-
-### Battery Leaching Process Modeling with Machine Learning
-
-Built a data-driven modeling framework for Li-NMC battery leaching using curated experimental and literature-based datasets. Trained gradient boosting models to predict multi-element recovery and performed sensitivity and uncertainty analysis to guide process optimization.
-
-### Energy Forecasting with Deep Recurrent Neural Networks
-
-Developed LSTM and GRU models for hourly electricity and heat demand prediction in residential systems. Optimized model architecture and hyperparameters to improve accuracy and robustness under temporal variability.
-
----
-
-## Publications
-
-* **Amir Yah**, H. Patel, J. Robinett, S. Namilae, Y. Zhou. *Binder jetting additive manufactured stainless steel battery cooling case: design, fabrication, and thermo-fluid analysis.* Manufacturing Letters, 2026.
-
-* A. Shakibi, **Amir Yah**, Y. Zhou. *Predicting bead geometry in laser powder directed energy deposition: ensemble machine learning models for complex process parameters.* The International Journal of Advanced Manufacturing Technology, 2026.
-
-* **Amir A. Yahyaeian**, A. Shakibi, A. Mello, Y. Zhou. *Directed Energy Deposition Additive Manufacturing of Stainless Steel with Spatially Variable Process Parameters.* AIAA SciTech 2026.
-
-* A. Morteza, **Amir A. Yahyaeian**, M. Mirzaeibonehkhater, S. Sadeghi, A. Moheimeni, S. Taheri. *Deep Learning Hyperparameter Optimization: Application to Electricity and Heat Demand Prediction for Buildings.* Energy & Buildings, 2023.
-
-* ➡️ **Full publication list:** [Google Scholar](https://scholar.google.com/citations?user=8IsNkzEAAAAJ&hl=en)
 
 ---
 
 ## Leadership & Service
 
-* Public Policy Chair, AIAA Cape Canaveral Section
-* Graduate teaching assistant in Mechanical Design Process, Artificial Intelligence, and Advanced Engineering Mathematics
+* Vice Chair, AIAA Cape Canaveral Section 2026-2027
+* Public Policy Chair, AIAA Cape Canaveral Section 2025-2026
+* Graduate teaching assistant in: Mechanical Design Process, Artificial Intelligence, Advanced Engineering Mathematics, Control Systems Design Lab
 
 ---
 
